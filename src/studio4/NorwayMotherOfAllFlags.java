@@ -14,12 +14,12 @@ public class NorwayMotherOfAllFlags {
 		StdDraw.clear();
 		StdDraw.setPenColor(255, 0, 0);
 		StdDraw.filledRectangle(3, 3, 3, 3);
-		StdDraw.filledRectangle(3, 13, 3, 3);
-		StdDraw.filledRectangle(16, 3, 6, 3);
-		StdDraw.filledRectangle(16, 13, 6, 3);
-		StdDraw.setPenColor(0, 0, 127);
-		StdDraw.filledRectangle(11, 8, 11, 1);
-		StdDraw.filledRectangle(8, 8, 1, 8);
+		StdDraw.filledRectangle(3, 22, 3, 3);
+		StdDraw.filledRectangle(16, 3, 3, 3);
+		StdDraw.filledRectangle(16, 20, 6, 3);
+		StdDraw.setPenColor(0, 0, 239);
+		StdDraw.filledRectangle(11, 8, 10, 1);
+		StdDraw.filledRectangle(8, 8, 1, 9);
 	}
 
 	public static void norway() {
